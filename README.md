@@ -1,9 +1,9 @@
 ### Hi there 👋 السلام عليكم
 
-- 🔭 I’m currently working on @axenda
-- 🌱 I’m currently learning a lot of things
-- 🚀 I’m looking to collaborate on JS/TS or Flutter projects
-- 🤔 I’m looking for great people to join us building @axenda
-- 💬 Ask me about anything on Twitter [@HadiAlbinsaad](https://twitter.com/hadialbinsaad)
-- 📫 How to reach me: hadi@albinsaad.com
-- ⚡ Fun fact: I buy coffe to work then I forget to drink it
+- 🔭 I love helping ppl, thats why I'm building tools for students with @axenda; I also teach & train students @SAFCSP/@Tuwaiq
+ 
+- 🤔 Looking for great people to join us building tools/platforms for students @axenda
+
+- 💬 Ask me anything on Twitter [@HadiAlbinsaad](https://twitter.com/hadialbinsaad)
+
+- 📫 hi@hadi.gg
